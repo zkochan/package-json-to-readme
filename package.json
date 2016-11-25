@@ -24,11 +24,11 @@
   },
   "homepage": "https://github.com/zeke/package-json-to-readme",
   "dependencies": {
-    "github-url-to-object": "^1.6.0",
-    "hogan.js": "^2.0.0",
-    "strip-ansi": "^0.2.2",
-    "sync-exec": "^0.5.0",
-    "yargs": "^3.0.4"
+    "github-url-to-object": "^2.2.6",
+    "hogan.js": "^3.0.2",
+    "strip-ansi": "^3.0.1",
+    "sync-exec": "^0.6.2",
+    "yargs": "^6.4.0"
   },
   "bin": {
     "package-json-to-readme": "index.js",
@@ -36,7 +36,7 @@
   },
   "preferGlobal": true,
   "devDependencies": {
-    "mocha": "^2.1.0",
-    "nixt": "^0.3.0"
+    "mocha": "^3.2.0",
+    "nixt": "^0.5.0"
   }
 }
